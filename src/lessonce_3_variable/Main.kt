@@ -2,8 +2,8 @@ package lessonce_3_variable
 /*ПЕРЕМЕННЫЕ*/
 
 /*
-var - изменяемые
-val - неизменяемые
+var - изменяемые (mutable)
+val - неизменяемые(immutable)
  */
 
 fun main(args: Array<String>) {
